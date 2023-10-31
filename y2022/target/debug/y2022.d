@@ -1,0 +1,1 @@
+/home/jan/coding/aoc/y2022/target/debug/y2022: /home/jan/coding/aoc/y2022/src/days/day10.rs /home/jan/coding/aoc/y2022/src/days/mod.rs /home/jan/coding/aoc/y2022/src/lib.rs /home/jan/coding/aoc/y2022/src/main.rs
